@@ -1,0 +1,78 @@
+html {
+    background-color: #232931;
+    color: #eeeeee;
+}
+
+button {
+    font-size: 14px;
+    background-color: #4ecca3;
+    color: #393e46;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+img {
+    display: none;
+    padding: 20px;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+#myProgress {
+    width: 100%;
+    margin-top: 20px;
+    background-color: #eeeeee;
+}
+  
+#myBar {
+    font-size: 14px;
+    background-color: #4ecca3;
+    text-align: center;
+    color: #393e46;
+}
+
+.disabled {
+    background-color: gray;
+    pointer-events: none;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.input-container {
+    display: table;
+    width: 100%
+}
+
+.input-file {
+    display: table-cell;
+    padding: 10px;
+    background-color: #4ecca3;
+    color: #393e46;
+    cursor: pointer;
+    width: 30%;
+}
+
+.file-name {
+    vertical-align: middle;
+    display: table-cell;
+    background: #eeeeee;
+    padding: 10px;
+    color: #393e46;
+    width: 70%;
+}
+
