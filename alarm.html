@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--Initialize page format-->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/styles/alarm.css">
+    <title>Clock</title>
+</head>
+<body>
+    <section class="container">
+        <!--Create display time-->
+        <div id="clock"></div>
+        <input onchange="setAlarmTime(this.value)" name="alarmTime" type="datetime-local">
+        <!--Create buttons for setting and clearing alarm and link it to its functions in the script-->
+        <div class="controls">
+            <button onclick="setAlarm()" class="button set-alarm">Set alarm</button>
+            <button onclick="clearAlarm()" class="button clear-alarm">Clear alarm</button>
+        </div>
+    </section>
+    <!--Import script for alarm setting-->
+    <script src="./assets/scripts/alarm.js"></script>
+</body>
+</html>
