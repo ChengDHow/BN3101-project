@@ -1,6 +1,6 @@
 # BN3101-project
 
-The codes and assets are used for BN3101 project in NUS for AY22/23 Semester 1.
+The codes and assets in this repository are used for BN3101 project in NUS for AY22/23 Semester 1.
 
 Install tesseract.js and node.js before running the codes.
 Install node.js from: https://nodejs.org/en/download/
