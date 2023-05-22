@@ -4,13 +4,13 @@
 The codes and assets in this repository are used for BN3101 project in NUS for AY22/23 Semester 1 in collaboration with clinicians from polyclinics.
 
 ## Contents
-- Getting started
-- Web app
-  - Layout and structure (HTML)
-  - Functionality (Javascript)
-  - Design (CSS)
-- Citations
-- Author
+- [Getting started](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#getting-started)
+- [Web app](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#web-app)
+  - [Layout and structure (HTML)](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#layout-and-structure-html)
+  - [Functionality (Javascript)](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#functionality-javascript)
+  - [Design (CSS)](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#design-css)
+- [Citations](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#citations)
+- [Author](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#author)
 
 ## Getting Started
 Install tesseract.js and node.js before running the codes.
