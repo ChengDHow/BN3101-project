@@ -10,6 +10,7 @@ The codes and assets in this repository are used for BN3101 project in NUS for A
   - [Functionality (Javascript)](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#functionality-javascript)
   - [Design (CSS)](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#design-css)
 - [Citations](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#citations)
+- [License](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#license)
 - [Author](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome#author)
 
 ## Getting Started
@@ -25,6 +26,8 @@ After installing node.js, install tesseract by entering the following command in
 
 ### Functionality (Javascript)
 Stored in the **scripts** folder are the javascript codes that performs the function of the app, including the alarm feature (**`alarm.js`**), image recognition feature and recording of input data into the user-specified google sheet (**`Capture photo from camera.js`** and **`readimage.js`**).
+
+An open sourced optical character recognition (OCR) software, [Tesseract](https://github.com/tesseract-ocr/tesseract) was used to achieve the image recognition ability of this web app. However, its functionality is limited to specific fonts and formats.
 
 ### Design (CSS)
 The color and formatting of each page are customized to be similar with minor changes to adapt to their respective usages. 
