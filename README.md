@@ -37,5 +37,8 @@ The color and formatting of each page are customized to be similar with minor ch
 - The alarm function of the app was completed with reference to the script written by https://github.com/javascriptacademy-stash/clock-alarm/blob/master/index.js
 - Please follow the guide from https://github.com/MusabDev/save-html-form-to-google-sheets to set up your google spreadsheet and enter your script link into the image_recognition.html code
 
+## License
+View full license [here](https://github.com/ChengDHow/Web-App-for-Recording-Blood-Pressure-of-Patients-with-White-Coat-Syndrome/blob/main/LICENSE.md)
+
 ## Author
 CHENG Teh How (https://github.com/ChengDHow)
